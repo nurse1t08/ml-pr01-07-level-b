@@ -1,0 +1,3 @@
+group,rows,columns
+train,384,16
+test,96,16
